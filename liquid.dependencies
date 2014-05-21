@@ -18,8 +18,8 @@
     "revision":      "android-4.3"
   },
   {
-    "remote": "gh",
-    "repository":  "thelegorom/vendor_motorola",
+    "remote": "tm",
+    "repository":  "proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
     "revision":      "lego"
   },
