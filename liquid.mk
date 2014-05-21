@@ -18,12 +18,12 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 
 # Inherit from our custom product configuration
-$(call inherit-product, vendor/lego/config/common_full_phone.mk)
+$(call inherit-product, vendor/liquid/config/common_tablet.mk)
 
 # Inherit from hardware-specific part of the product configuration
 $(call inherit-product, device/motorola/wingray/device.mk)
 
-PRODUCT_NAME := lego_wingray
+PRODUCT_NAME := liquid_wingray
 PRODUCT_DEVICE := wingray
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := Xoom Wifi
