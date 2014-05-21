@@ -1,42 +1,42 @@
 [
   {
-    "remote": "github",
+    "remote": "gh",
     "repository":  "Schischu/android_vendor_moto_everest",
     "target_path": "vendor/motorola/everest",
     "revision":      "android-4.4"
   },
   {
-    "remote": "github",
+    "remote": "gh",
     "repository":  "Schischu/xoom-ElementalX",
     "target_path": "kernel/motorola/stingray",
     "revision":      "master"
   },
   {
-    "remote": "github",
+    "remote": "gh",
     "repository":  "Schischu/android_vendor_broadcom_wingray",
     "target_path": "vendor/broadcom/wingray",
     "revision":      "android-4.3"
   },
   {
-    "remote": "github",
+    "remote": "gh",
     "repository":  "thelegorom/vendor_motorola",
     "target_path": "vendor/motorola",
     "revision":      "lego"
   },
   {
-    "remote": "github",
+    "remote": "gh",
     "repository":  "Schischu/android_vendor_moto_wingray",
     "target_path": "vendor/motorola/wingray",
     "revision":      "android-4.3"
   },
   {
-    "remote": "github",
+    "remote": "gh",
     "repository":  "Schischu/android_vendor_nvidia_wingray",
     "target_path": "vendor/nvidia/wingray",
     "revision":      "android-4.3"
   },
   {
-    "remote": "github",
+    "remote": "gh",
     "repository":  "Schischu/android_vendor_moto_stingray",
     "target_path": "vendor/motorola/stingray",
     "revision":      "android-4.4"
